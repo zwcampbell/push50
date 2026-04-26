@@ -27,6 +27,7 @@
 - [x] Screenshots — 6 screens captured from iPhone 17 Pro Max (6.7") → Screenshots/
 
 ## Archiving
+- [ ] **BLOCKED: Sign into Xcode first** — Xcode → Settings (⌘,) → Accounts → + → Apple ID → sign in with the account for team LP5448PXCB
 - [ ] Archive: Xcode → Product → Archive → Distribute App → App Store Connect
 - [ ] Verify no warnings or missing entitlements in the Organizer upload report
 
