@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__mcp-registry__search_mcp_registry",
+      "WebFetch(domain:skill.mp)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(npx skills *)",
+      "Bash(xcodegen --version)",
+      "Bash(brew --version)",
+      "Bash(brew install *)",
+      "Bash(xcodegen generate *)",
+      "Bash(xcodebuild -project Push50.xcodeproj -scheme Push50 -destination 'platform=iOS Simulator,name=iPhone 16' -configuration Debug build)",
+      "Bash(xcrun simctl *)",
+      "Bash(xcodebuild -project Push50.xcodeproj -scheme Push50 -destination 'platform=iOS Simulator,name=iPhone 17 Pro' -configuration Debug build)",
+      "Bash(xcodebuild -project Push50.xcodeproj -scheme Push50 -destination 'platform=iOS Simulator,name=iPhone 17 Pro' -configuration Debug install)",
+      "Bash(cp /Users/zcampbell/Downloads/app-icon.png \"/Users/zcampbell/Claude/Push 50/Push50/Assets.xcassets/AppIcon.appiconset/AppIcon.png\")",
+      "Bash(sips -g pixelWidth -g pixelHeight \"/Users/zcampbell/Claude/Push 50/Push50/Assets.xcassets/AppIcon.appiconset/AppIcon.png\")",
+      "Bash(sips --resampleHeightWidth 1024 1024 \"/Users/zcampbell/Claude/Push 50/Push50/Assets.xcassets/AppIcon.appiconset/AppIcon.png\" --out \"/Users/zcampbell/Claude/Push 50/Push50/Assets.xcassets/AppIcon.appiconset/AppIcon.png\")",
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "Bash(xcodebuild -scheme Push50 -configuration Debug -destination 'id=B33C2F1F-B7E7-4BBD-87F0-D935CA987F31' -derivedDataPath /tmp/push50-dd build)",
+      "mcp__Claude_in_Chrome__navigate",
+      "mcp__Claude_in_Chrome__computer",
+      "mcp__Claude_in_Chrome__browser_batch",
+      "mcp__Claude_in_Chrome__tabs_create_mcp",
+      "Bash(xcodebuild archive *)",
+      "Bash(open \"/Users/zcampbell/Claude/Push 50/Push50.xcodeproj\")"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "skills": {
+    "ios-simulator-skill": {
+      "source": "conorluddy/ios-simulator-skill",
+      "sourceType": "github",
+      "computedHash": "15b3647467ace491b1baa725b3f0c649083d5ac04a228e8031e7cbb712d8468b"
+    },
+    "swiftdata-pro": {
+      "source": "twostraws/swiftdata-agent-skill",
+      "sourceType": "github",
+      "computedHash": "2f979bad98ea3a6744084c5f93e27897f02e8d0ffe15dd03042e88aaae4da14c"
+    },
+    "swiftui-pro": {
+      "source": "twostraws/swiftui-agent-skill",
+      "sourceType": "github",
+      "computedHash": "07033426e384295a4b49cf0b2ffdefd4098cae4af53fef16bc1f2d9281118c41"
+    }
+  }
+}
